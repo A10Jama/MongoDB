@@ -45,3 +45,7 @@ MongoDB can be deployed on a single machine or on a cluster of machines, dependi
 ## What is seeding in MongoDB?
 
 Seeding in MongoDB is the process of adding initial data, such as default or sample data, to a database. This is important because it helps ensure data integrity, maximise database performance, and provide default values for applications. Seeding can be done using scripts or tools, and it's useful when a database is first created, when data needs to be reset or updated, or for testing and development purposes.
+
+## What port does MongoDB use ?
+
+MongoDB typically uses port number 27017 for client-server communication by default. However, it is possible to configure MongoDB to use a different port if needed. It's important to note that if a firewall is enabled, the appropriate port(s) must be open to allow incoming traffic to the MongoDB server.
