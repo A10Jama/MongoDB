@@ -38,5 +38,6 @@ The Mongo Shell is a command-line interface that allows developers and administr
 Mongos is a component of MongoDB's sharding architecture. It is responsible for routing queries and write operations to the appropriate shards, which are separate instances of the database that store subsets of the data. Mongos acts as a query router and load balancer, ensuring that queries are distributed evenly across the shards.
 
 - Machines
+
 MongoDB can be deployed on a single machine or on a cluster of machines, depending on the size and requirements of the application. A single machine deployment is suitable for small-scale applications, while a cluster deployment provides scalability, availability, and fault tolerance for larger applications.
 
