@@ -4,6 +4,7 @@
 MongoDB is a type of database that can store data in a flexible way, similar to how you would write data in a document. Unlike traditional databases,
 it does not need a fixed structure for storing data. Instead, it allows you to store data in a format that works best for your application.
 MongoDB is used by many modern web and mobile applications to store and manage their data.
+
 ![image](https://user-images.githubusercontent.com/129948378/233044098-e77acb64-21d2-46b6-8381-a16c38133f80.png)
 
 ## What are NoSQL databases? How do they differ from SQL?
