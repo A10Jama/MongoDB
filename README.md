@@ -19,4 +19,5 @@ MongoDB was founded in 2007 and released its first version in 2009. It quickly b
 
 ## MongoDB architecture for storing data
 
-![image](https://user-images.githubusercontent.com/129948378/233046094-b8048077-45bb-47ad-af81-f2521b2b6462.png)
+![image](https://user-images.githubusercontent.com/129948378/233046695-9b9db41a-c1f1-4239-8b09-29ca201b26d9.png)
+
