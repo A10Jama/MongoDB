@@ -50,7 +50,7 @@ Seeding in MongoDB is the process of adding initial data, such as default or sam
 
 MongoDB typically uses port number 27017 for client-server communication by default. However, it is possible to configure MongoDB to use a different port if needed. It's important to note that if a firewall is enabled, the appropriate port(s) must be open to allow incoming traffic to the MongoDB server.
 
-## How do you connect to a mongodb database ?
+## How do you connect to a Mongodb database ?
 
 The basic steps to connect to a MongoDB database using a driver are:
 
