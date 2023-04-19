@@ -16,3 +16,5 @@ MongoDB is popular because it's easy to store and retrieve data in a flexible wa
 It can handle a lot of data and traffic and is optimized for high performance. It's open-source, integrates well with modern technologies, and has great community support.
 
 MongoDB was founded in 2007 and released its first version in 2009. It quickly became popular and is now one of the most widely used NoSQL databases. MongoDB has continued to add new features and expanded its product offerings, including Atlas and Realm.
+
+## MongoDB architecture for storing data
