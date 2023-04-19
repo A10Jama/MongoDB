@@ -12,3 +12,7 @@ They do not use fixed structures like SQL databases, but instead use different d
 NoSQL databases are designed to handle big data challenges and are highly scalable and available. SQL databases, on the other hand, use a fixed schema and are better suited for applications that require strong consistency and ACID properties.
 
 ## Why is MongoDB popular? What is it’s history? 
+MongoDB is popular because it's easy to store and retrieve data in a flexible way without predefined tables or schemas. 
+It can handle a lot of data and traffic and is optimized for high performance. It's open-source, integrates well with modern technologies, and has great community support.
+
+MongoDB was founded in 2007 and released its first version in 2009. It quickly became popular and is now one of the most widely used NoSQL databases. MongoDB has continued to add new features and expanded its product offerings, including Atlas and Realm.
