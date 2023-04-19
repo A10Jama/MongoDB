@@ -18,3 +18,5 @@ It can handle a lot of data and traffic and is optimized for high performance. I
 MongoDB was founded in 2007 and released its first version in 2009. It quickly became popular and is now one of the most widely used NoSQL databases. MongoDB has continued to add new features and expanded its product offerings, including Atlas and Realm.
 
 ## MongoDB architecture for storing data
+
+![image](https://user-images.githubusercontent.com/129948378/233046094-b8048077-45bb-47ad-af81-f2521b2b6462.png)
