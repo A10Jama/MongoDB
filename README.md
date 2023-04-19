@@ -21,3 +21,18 @@ MongoDB was founded in 2007 and released its first version in 2009. It quickly b
 
 ![image](https://user-images.githubusercontent.com/129948378/233046695-9b9db41a-c1f1-4239-8b09-29ca201b26d9.png)
 
+- Application
+The application is the program or software that interacts with the MongoDB database to store, retrieve, and manipulate data. The application communicates with the MongoDB database using a driver.
+
+- Driver
+A driver is a software library or module that provides a programming interface for the application to interact with the MongoDB database. MongoDB supports drivers for many programming languages, including Java, Python, Node.js, and PHP.
+
+- Mongo Shell 
+The Mongo Shell is a command-line interface that allows developers and administrators to interact with the MongoDB database directly. It provides a JavaScript-based environment for querying the database, managing collections, and performing administrative tasks.
+
+- Mongos
+Mongos is a component of MongoDB's sharding architecture. It is responsible for routing queries and write operations to the appropriate shards, which are separate instances of the database that store subsets of the data. Mongos acts as a query router and load balancer, ensuring that queries are distributed evenly across the shards.
+
+- Machines
+MongoDB can be deployed on a single machine or on a cluster of machines, depending on the size and requirements of the application. A single machine deployment is suitable for small-scale applications, while a cluster deployment provides scalability, availability, and fault tolerance for larger applications.
+
