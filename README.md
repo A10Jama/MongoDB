@@ -42,3 +42,6 @@ Mongos is a component of MongoDB's sharding architecture. It is responsible for 
 
 MongoDB can be deployed on a single machine or on a cluster of machines, depending on the size and requirements of the application. A single machine deployment is suitable for small-scale applications, while a cluster deployment provides scalability, availability, and fault tolerance for larger applications.
 
+## What is seeding in MongoDB?
+
+Seeding in MongoDB is the process of adding initial data, such as default or sample data, to a database. This is important because it helps ensure data integrity, maximise database performance, and provide default values for applications. Seeding can be done using scripts or tools, and it's useful when a database is first created, when data needs to be reset or updated, or for testing and development purposes.
